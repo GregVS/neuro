@@ -22,7 +22,7 @@ NeuralNetwork net = builder.buildNetwork();
 ```
 #### Running the Neural Network
 ```java
-float[] inputs = getInputs();
+float[] inputs = /* some input values */
 float[] outputs = net.evaluate(inputs);
 ```
 If you would like to backpropagate the network then add this code after.
