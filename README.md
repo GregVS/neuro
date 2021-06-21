@@ -1,4 +1,6 @@
 # Neuro
+**Note: I wrote this project in 7th grade. It was simply a way for me to learn about basic neural networks at a low level.**
+
 Neuro is an open source neural network made with Java :)<br>
 Feel free to distribute this program or modify it to your liking.
 <br>
